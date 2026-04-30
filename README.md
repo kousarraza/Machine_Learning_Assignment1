@@ -1,4 +1,4 @@
-# Machine_Learning_Assignmen1
+# Machine_Learning_Assignment1
 -------
 # 📘 Bias–Variance Trade-off using Polynomial Regression
 
